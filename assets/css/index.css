@@ -28,6 +28,8 @@ span {
 .background {
     background-image: url(../images/camera-man.jpg);
     background-size: cover;
+
+   
 }
 
 .container {
@@ -66,7 +68,7 @@ span {
     display: flex;
     position: absolute;
     right: 0%;
-    font-size: 15px;
+    font-size: 5%;
     margin-top: 10px;
 }
 
@@ -81,6 +83,7 @@ span {
 .button1 button {
     padding: 0px 20px;
     margin-top: 10px;
+    margin-right:40px;
     border-radius: 5px;
     border: none;
     background-color: rgb(63, 58, 88);
@@ -99,7 +102,9 @@ span {
 
 .para {
     margin-top: 30px;
+
 }
+
 
 .para div {
     font-size: 24px;
@@ -240,26 +245,23 @@ span {
 .free {
     margin: 3% 0% 0% 0%;
     background-color: #585b5f;
-    padding: 0px 78px;
+    padding:6%;
     color: #ffffff;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
-    font-style: normal;
-    letter-spacing: normal;
-    line-height: 50px;
     text-align: center;
     border: none;
 }
 .free1{
     margin: 3% 0% 0% 0%;
     background-color: #585b5f;
-    padding: 0px 34%;
+   
     color: #ffffff;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
-    line-height: 50px;
+    padding:5% 37%;
     text-align: center;
     border: none;
 }
@@ -311,14 +313,12 @@ span {
 .prof {
     margin: 3% 0% 0% 0%;
     background-color: #3fd734;
-    padding: 0px 60px;
+    padding:6%;
     color: #ffffff;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
-    font-style: normal;
-    letter-spacing: normal;
-    line-height: 50px;
+
     text-align: center;
     border: none;
 }
@@ -326,12 +326,11 @@ span {
 .prof1 {
     margin: 3% 0% 0% 0%;
     background-color: #3fd734;
-    padding: 0% 31%;
+    padding: 5% 35%;
     color: #ffffff;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
-    line-height: 50px;
     text-align: center;
     border: none;
 
@@ -340,13 +339,11 @@ span {
 .enter {
     margin: 3% 0% 0% 0%;
     background-color: #1febeb;
-    padding: 0% 32%;
+    padding:6%;
     color: #ffffff;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
-    letter-spacing: normal;
-    line-height: 50px;
     text-align: center;
     border: none;
 }
@@ -354,12 +351,11 @@ span {
 .enter1 {
     margin: 3% 0% 0% 0%;
     background-color: #1febeb;
-    padding: 0% 32%;
+    padding: 5% 35%;
     color: #ffffff;
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
-    line-height: 50px;
     text-align: center;
     border: none;
 }
